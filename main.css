@@ -161,25 +161,3 @@ bottombarpink {
     margin-bottom: 10px;
     padding: 0;
 }
-
-imgpink {
-    border: 1px solid #FFC0C0;
-    border-radius: 2px;
-    padding: 1px;
-    width: 175px;
-    align-items: center;
-    display: block;
-    margin-bottom: 10px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-@media only screen and (max-width: 768px) {
-    /* For mobile phones thank cyber */
-    .card {
-      flex-direction: column;
-      width: 100%;
-      padding: 0;
-    }
-  }
-  
