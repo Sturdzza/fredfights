@@ -25,7 +25,7 @@ h1 {
 img {
     border: 1px solid #d0f0c0;
     border-radius: 2px;
-    padding: 1px;
+    padding: 0px;
     width: 175px;
     align-items: center;
     display: block;
@@ -48,7 +48,7 @@ h2 {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
 .card-content {
-    padding: 2px 16px;
+    padding: 0px 0px;
 }
 .projects {
     display: flex;
@@ -61,7 +61,7 @@ h2 {
     background-color: #d0f0c0;
     border: none;
     color: #282828;
-    padding: 10px 32px;
+    padding: 0px 0px;
     text-align: center;
     text-decoration: none;
     display: block;
@@ -88,7 +88,7 @@ h2 {
     background-color: #1da1f2;
     border: none;
     color: #282828;
-    padding: 10px 32px;
+    padding: 0px 0px;
     text-align: center;
     text-decoration: none;
     display: block;
@@ -101,7 +101,7 @@ h2 {
     background-color: dimgrey;
     border: none;
     color: #282828;
-    padding: 10px 32px;
+    padding: 0px 0px;
     text-align: center;
     text-decoration: none;
     display: block;
@@ -114,7 +114,7 @@ h2 {
     background-color: #7289da;
     border: none;
     color: #282828;
-    padding: 10px 32px;
+    padding: 0px 0px;
     text-align: center;
     text-decoration: none;
     display: block;
@@ -153,7 +153,7 @@ bottombarpink {
 imgpink {
     border: 1px solid #FFC0C0;
     border-radius: 2px;
-    padding: 1px;
+    padding: 0px;
     width: 175px;
     align-items: center;
     display: block;
