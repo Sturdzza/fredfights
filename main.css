@@ -4,7 +4,7 @@ topbar {
     display: block;
     height: 1px;
     border: 0;
-    border-top: 3px solid #d0f0c0;
+    border-top: 3px solid #ffffff;
     width: 60%;
     align-items: center;
     margin-left: auto;
@@ -16,7 +16,7 @@ bottombar {
     display: block;
     height: 1px;
     border: 0;
-    border-top: 3px solid #d0f0c0;
+    border-top: 3px solid #ffffff;
     width: 100%;
     align-items: center;
     margin-left: auto;
@@ -35,7 +35,7 @@ h1 {
     font-family: 'Roboto', sans-serif;
 }
 img {
-    border: 1px solid #d0f0c0;
+    border: 1px solid #ffffff;
     border-radius: 2px;
     padding: 1px;
     width: 175px;
